@@ -1,0 +1,10 @@
+JDK adalah lapisan perangkat lunak di atas JRE yang berisi kompilator, debugger, dan alat lain yang biasa ditemukan di lingkungan pengembangan perangkat lunak apa pun.
+
+
+
+
+Implicit intent atau maksud tersirat adalah model intent yang digunakan untuk menjelaskan tindakan umum tanpa menentukan komponen yang tepat untuk menangani intent tersebut.
+
+
+
+SQLite adalah database SQL opensource yang menyimpan data ke file teks di perangkat. Android hadir dengan implementasi database SQLite bawaan. SQLite mendukung semua fitur database relasional.
